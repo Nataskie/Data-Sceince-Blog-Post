@@ -46,7 +46,7 @@ Graphs and plots of the data in this repository:
 
 ## Repositary link  
 
-https://github.com/Nataskie/Data-Science-Blog-Post.gitcd Data-Science-Blog-Post
+[https://github.com/Nataskie/Data-Science-Blog-Post.gitcd Data-Science-Blog-Post](https://github.com/Nataskie/Data-Sceince-Blog-Post.git)
 
 ## References
  I acknowledge Eddy May for insightful guidance, structuring and adhering to the project guidelines.

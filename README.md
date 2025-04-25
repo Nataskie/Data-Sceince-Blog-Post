@@ -4,8 +4,6 @@ This project analyzes U.S. business formation trends using data from the U.S. Ce
 
 ---
 
-## CRISP-DM Process
-
 ### 1. Business Understanding
 
 As someone currently working as an Operations Manager and owner of a startup, I’ve been deeply involved in helping individuals launch and grow their businesses. I’ve worked hands-on with clients to guide them through the early stages of formation, from idea to execution. This dataset instantly stood out to me as an opportunity to compare national business formation trends with what I’ve been seeing on the ground.

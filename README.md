@@ -53,4 +53,4 @@ https://www.belladessinsstudio.com/post/which-businesses-are-blooming-in-america
 
 ## References
  I acknowledge Eddy May for insightful guidance, structuring and for helping me to adhere to the project guidelines.
- I aslo acknowledge The Purposed Eagle Network & Vizal for providing some of the comparison data for this project.
+ I aslo acknowledge The Purposed Eagle Network & Vizal for providing the comparison information for this project.

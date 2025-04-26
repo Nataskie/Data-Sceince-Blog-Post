@@ -10,11 +10,11 @@ As someone currently working as an Operations Manager and owner of a startup, Iâ
 
 What I wanted to find out?
 
-- What sector is gaining the most traction? NAICSRET - Retail Trade
+- What sector is gaining the most traction? NAICSRET - Retail Trade - The business applications are for the retail trade sector with 249,898 applications.
 
-- Are the businesses my clients are starting aligned with broader national trends? Yes, I have 
+- Are the businesses my clients are starting aligned with broader national trends? The business's that are being started by clients are in the same sector.
 
-- How might these trends evolve in the near future? The model was used to predict April's Business applications.
+- How might these trends evolve in the near future? The model was used to predict April's Business applications, Retail Trade still has the highest number of applications around 86 to 87,000.
 
 This project is both professionally relevant and personally rewarding, as it allows me to bring data-driven insight into a space Iâ€™m actively working to improve.
 

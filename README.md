@@ -49,4 +49,4 @@ Graphs and plots of the data in this repository:
 [https://github.com/Nataskie/Data-Science-Blog-Post.gitcd Data-Science-Blog-Post](https://github.com/Nataskie/Data-Sceince-Blog-Post.git)
 
 ## References
- I acknowledge Eddy May for insightful guidance, structuring and adhering to the project guidelines.
+ I acknowledge Eddy May for insightful guidance, structuring and for helping me to adhere to the project guidelines.

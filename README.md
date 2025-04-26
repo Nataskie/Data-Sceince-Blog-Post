@@ -32,8 +32,8 @@ This project is both professionally relevant and personally rewarding, as it all
 A **linear regression model** was built to predict monthly business applications using Janaury & February as the features and March as the target.
 
 ### 5. Evaluation
-- **Metrics used:** Mean Squared Error (MSE), Root Mean Squared Error (RMSE)
-- **Findings:** Model performs decent, has a 10% error.
+- **Metrics used:** Mean Squared Error (MSE) 6402148.316243282, Root Mean Squared Error (RMSE) 2530.246690787932
+- **Findings:** The Model performs decent and has a 10% error. It's predictions are off about 2,530 applications. This suggests that the model is able to capture more of a general prediction, but it is not very precise. Using the model to predict applications for April, the NAICS sector 'Retail Trade' still has the highest number, around 86 to 87,000. 
 
 ### 6. Deployment
 This analysis is presented in a Jupyter Notebook and summarized in a blog post on my webiste.
@@ -48,5 +48,9 @@ Graphs and plots of the data in this repository:
 
 [https://github.com/Nataskie/Data-Science-Blog-Post.gitcd Data-Science-Blog-Post](https://github.com/Nataskie/Data-Sceince-Blog-Post.git)
 
+## Blog Link
+https://www.belladessinsstudio.com/post/which-businesses-are-blooming-in-america 
+
 ## References
  I acknowledge Eddy May for insightful guidance, structuring and for helping me to adhere to the project guidelines.
+ I aslo acknowledge The Purposed Eagle Network & Vizal for providing some of the comparison data for this project.

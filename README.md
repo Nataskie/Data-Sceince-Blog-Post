@@ -53,7 +53,15 @@ Data Sources:
 - Vizal Business List.pdf - PDF of Vizal Business List 
 - Vizal Business List.img - Image of Vizal Business List
 
+### Libraries Used
 
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squared_error, root_mean_squared_error
 
 ---
 

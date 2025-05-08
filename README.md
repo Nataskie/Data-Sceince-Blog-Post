@@ -38,7 +38,7 @@ A **linear regression model** was built to predict monthly business applications
 ### 6. Deployment
 This analysis is presented in a Jupyter Notebook and summarized in a blog post on my webiste.
 
-###File Description
+## File Description
 
 Graphs and plots of the data in this repository:
 - Total Q1 Applications by NAICS Sector.png - Bar graph PNG of Total Q1 Applications by NAICS Sector

@@ -39,6 +39,7 @@ A **linear regression model** was built to predict monthly business applications
 This analysis is presented in a Jupyter Notebook and summarized in a blog post on my webiste.
 
 ##File Description
+
 Graphs and plots of the data in this repository:
 - Total Q1 Applications by NAICS Sector.png - Bar graph PNG of Total Q1 Applications by NAICS Sector
 - Hypothetical April 2025 Business Applications by Sector.png - Bar graph PNG of Predicted April Applications by NAICS Sector

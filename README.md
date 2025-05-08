@@ -41,10 +41,13 @@ This analysis is presented in a Jupyter Notebook and summarized in a blog post o
 ### File Description
 
 Graphs and plots of the data in this repository:
+
 - Total Q1 Applications by NAICS Sector.png - Bar graph PNG of Total Q1 Applications by NAICS Sector
 - Hypothetical April 2025 Business Applications by Sector.png - Bar graph PNG of Predicted April Applications by NAICS Sector
 - Actual vs Predicted March Applications.png - Scatter Plot PNG of Actual vs. Predicted Values for March
+  
 Data Sources:
+
 - bfs_montly.csv - Notebook containing the data analysis
 - bfs_monthly_data_dictionary.pdf - PDF of dataset terms/definitions
 - Vizal Business List.pdf - PDF of Vizal Business List 
